@@ -1,4 +1,6 @@
 # CustomersMailCloud - Java
+DNSラウンドロビンで負荷分散した複数台のSMTPサーバにメールを送信するJavaライブラリです。 
+JavaMailが提供するTransportクラスの代わり使用することができます。
 
 ## Requirement
 JDK1.6以上  
